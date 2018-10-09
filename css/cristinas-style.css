@@ -1,0 +1,19 @@
+body { 
+	background-color: beige
+}
+h1 {
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: darkorchid
+}
+h4 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: italic;
+	color:green
+}
+p{
+	line-height: 25px;
+	font-weight: bold;
+}
+footer{
+	color: blue;
+}
